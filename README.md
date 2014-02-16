@@ -29,7 +29,7 @@ Faculty of Humanities and Applied Sciences, specialized in English stylistics.
 **Copywriter at [CB Territory](http://territory.com.ua/)** (2013–present)
 
 Worked on social media content for Vitmark Ukraine ([Jaffa](https://www.facebook.com/JAFFA.ua), [Prosto Frukty](https://www.facebook.com/ProstoFrukty?fref=ts)), and [Bebivita Ukraine](https://www.facebook.com/BebivitaUkraine). Created content plans, improved them and found shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable. Besides, participated in recreational [art project](http://coub.com/view/4yd1) 
-and was in charge of company's social media [accounts](https://twitter.com/CBTERRITORY).
+and was in charge of company's social media [account](https://twitter.com/CBTERRITORY).
 
 **Contributing author at [Wonderzine](http://www.wonderzine.com)** (2013–present)
 
