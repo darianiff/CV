@@ -2,58 +2,52 @@
 
 ## Summary
 
-20 y.o. copywriter, journalist, aspiring community leader and the next big thing (hopefully). Currently residing in Kiev, Ukraine.
+20 y.o. copywriter, journalist, aspiring community leader and hopefully the next big thing. Currently residing in Kiev, Ukraine.
 
+### Contact
 
-#### Education
+[darianiff@gmail.com](mailto:darianiff@gmail.com)  
++380-91-920-16-23  
+[facebook.com/daria.nifontova](http://www.facebook.com/daria.nifontova)  
 
-* Moscow State Linguistic University, Faculty of Humanities and Applied Sciences, specialized in English stylistics, (2010 – 2013)
+### Education
 
-* British Higher School of Art and Design (Moscow), UX strategies course listener (2013)
+**Moscow British Higher School of Art and Design** (2013)
 
-#### Skills
+UX strategies course listener.
 
-Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to
-long essays). Was a part of Thlient Interfaces researchers' team for navigation systems, due to my interest in information design and navigation systems. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
+**Moscow State Linguistic University** (2010–2013)
 
-#### Career
+Faculty of Humanities and Applied Sciences, specialized in English stylistics.
 
+### Skills
 
-**Contributing author at Major Journal Russia** (2012)
+Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to long essays). Was a part of researchers' team for navigation systems, due to interest in information design and navigation systems. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
 
-Writing lifestyle articles, paying special attention to culture and sports. 
+### Career
 
-**Project manager at Life As Miracle** (2012)
+**Copywriter at [CB Territory](http://territory.com.ua/)** (2013–present)
 
-Managing various projects and events and working with volunteers for a charity organization Life As Miracle. 
+Working on social media content for Vitmark Ukraine (Jaffa, Prosto Frukty), Arterium, Bebivita Ukraine and AVK. Creating content plans, improving them and finding shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable.
 
-**Content editor/project manager at DigDog agency** (2012-2013)
+**Editor at [Wonderzine](http://www.wonderzine.com)** (2013–present)
 
-Creating content for Panasonic Russia and MadRobots.Ru, successfully worked on redesign of Panasonic Cooking Club (http://cooking.panasonic.ru/), providing content for the site and working with developers' team on UI/UX.
+Contributing lifestyle articles on various tematics. Some of them:
 
-**Editor at Wonderzine** (2013 - present)
-
-Contributing lifestyle articles on various tematics.
-You might want to check some of them:
-
-* [How To Make Long Distance Relationship Work
-](http://www.wonderzine.com/wonderzine/life/life/193807-how-to-make-long-distance-relationship-work)
+* [How To Make Long Distance Relationship Work](http://www.wonderzine.com/wonderzine/life/life/193807-how-to-make-long-distance-relationship-work)
 * [Apps To Improve Your Sex Life](http://www.wonderzine.com/wonderzine/life/life/193679-sex-apps)
 * [10 Best Blogs On Feminism](http://http://www.wonderzine.com/wonderzine/life/life/193723-feminism)
 * [Health Tracking Services And What Do You Need Them For](http://http://www.wonderzine.com/wonderzine/beauty/health/197479-back-on-track)
 * [Dumb Online Test You Might Want To Waste Your Time On](http://http://www.wonderzine.com/wonderzine/life/life/197751-7-online-test-you-can-do-right-now)
 
+**Content editor and project manager at [DigDog](http://digdog.ru/en/)** (2012–2013)
 
-**Copywriter at CB Territory** (2013 - present)
+Creating content for [Panasonic Russia](http://www.panasonic.com/ru/) and [MadRobots.Ru](http://madrobots.ru/), successfully worked on redesign of [Panasonic Cooking Club](http://cooking.panasonic.ru/), providing content for the site and working with developers team on UI/UX.
 
+**Project manager at [Life As Miracle](http://kakchudo.ru/)** (2012)
 
-Working on social media content for Vitmark Ukraine (Jaffa, Prosto Frukty), Arterium, Bebivita Ukraine and AVK. Creating content plans, improving them and finding shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable. 
+Managing various projects and events and working with volunteers for a charity organization Life As Miracle.
 
+**Contributing author at Major Journal Russia** (2012)
 
-
-#### Contact
-* darianiff@gmail.com 
-
-* +380-91-920-16-23
-
-* facebook.com/ daria.nifontova
+Writing lifestyle articles, paying special attention to culture and sports.
