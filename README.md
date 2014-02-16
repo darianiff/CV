@@ -10,6 +10,10 @@
 +380-91-920-16-23  
 [facebook.com/daria.nifontova](http://www.facebook.com/daria.nifontova)  
 
+### Skills
+
+Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to long essays). Was a part of researchers team for navigation systems, due to interest in information design and navigation systems. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
+
 ### Education
 
 **Moscow British Higher School of Art and Design** (2013)
@@ -20,19 +24,16 @@ UX strategies course listener.
 
 Faculty of Humanities and Applied Sciences, specialized in English stylistics.
 
-### Skills
-
-Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to long essays). Was a part of researchers' team for navigation systems, due to interest in information design and navigation systems. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
-
 ### Career
 
 **Copywriter at [CB Territory](http://territory.com.ua/)** (2013–present)
 
-Working on social media content for Vitmark Ukraine (Jaffa, Prosto Frukty), Arterium, Bebivita Ukraine and AVK. Creating content plans, improving them and finding shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable.
+Worked on social media content for Vitmark Ukraine ([Jaffa](https://www.facebook.com/JAFFA.ua), [Prosto Frukty](https://www.facebook.com/ProstoFrukty?fref=ts)), and [Bebivita Ukraine](https://www.facebook.com/BebivitaUkraine). Created content plans, improved them and found shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable. Besides, participated in recreational [art project](http://coub.com/view/4yd1) 
+and was in charge of company's social media [accounts](https://twitter.com/CBTERRITORY).
 
-**Editor at [Wonderzine](http://www.wonderzine.com)** (2013–present)
+**Contributing author at [Wonderzine](http://www.wonderzine.com)** (2013–present)
 
-Contributing lifestyle articles on various tematics. Some of them:
+Contributed lifestyle articles on various tematics, icluding sex, relationships, health and beauty. Some of them:
 
 * [How To Make Long Distance Relationship Work](http://www.wonderzine.com/wonderzine/life/life/193807-how-to-make-long-distance-relationship-work)
 * [Apps To Improve Your Sex Life](http://www.wonderzine.com/wonderzine/life/life/193679-sex-apps)
@@ -40,14 +41,20 @@ Contributing lifestyle articles on various tematics. Some of them:
 * [Health Tracking Services And What Do You Need Them For](http://http://www.wonderzine.com/wonderzine/beauty/health/197479-back-on-track)
 * [Dumb Online Test You Might Want To Waste Your Time On](http://http://www.wonderzine.com/wonderzine/life/life/197751-7-online-test-you-can-do-right-now)
 
+**Contributing author for [VTB special project](http://vtbrussia.ru/culture/spec/mmkf/2013/history/pages/#276049)**
+
+Contributed content for VTB special project dedicated to Moscow International Film Festival 35th Anniversary.
+
+
+
 **Content editor and project manager at [DigDog](http://digdog.ru/en/)** (2012–2013)
 
-Creating content for [Panasonic Russia](http://www.panasonic.com/ru/) and [MadRobots.Ru](http://madrobots.ru/), successfully worked on redesign of [Panasonic Cooking Club](http://cooking.panasonic.ru/), providing content for the site and working with developers team on UI/UX.
+Created content for [Panasonic Russia](http://www.panasonic.com/ru/) and [MadRobots](http://madrobots.ru/), successfully worked on redesign of [Panasonic Cooking Club](http://cooking.panasonic.ru/), providing content for the site and working with developers team on UI/UX.
 
 **Project manager at [Life As Miracle](http://kakchudo.ru/)** (2012)
 
-Managing various projects and events and working with volunteers for a charity organization Life As Miracle.
+Managed various projects, events and volunteers' work for a charity organization Life As Miracle.
 
 **Contributing author at Major Journal Russia** (2012)
 
-Writing lifestyle articles, paying special attention to culture and sports.
+Wrote lifestyle articles, paying special attention to culture and sports.
