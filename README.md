@@ -28,8 +28,7 @@ Faculty of Humanities and Applied Sciences, specialized in English stylistics.
 
 **Copywriter at [CB Territory](http://territory.com.ua/)** (2013–present)
 
-Worked on social media content for Vitmark Ukraine ([Jaffa](https://www.facebook.com/JAFFA.ua), [Prosto Frukty](https://www.facebook.com/ProstoFrukty?fref=ts)), and [Bebivita Ukraine](https://www.facebook.com/BebivitaUkraine). Created content plans, improved them and found shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable. Besides, participated in recreational [art project](http://coub.com/view/4yd1) 
-and was in charge of company's social media [account](https://twitter.com/CBTERRITORY).
+Worked on social media content for Vitmark Ukraine ([Jaffa](https://www.facebook.com/JAFFA.ua), [Prosto Frukty](https://www.facebook.com/ProstoFrukty?fref=ts)), and [Bebivita Ukraine](https://www.facebook.com/BebivitaUkraine). Created content plans, improved them and found shiny new ways to transmit brand's message to the public and make it bold, smart and unforgettable. Besides, participated in recreational [art project](http://coub.com/view/4yd1) and was in charge of company's [twitter](https://twitter.com/CBTERRITORY).
 
 **Contributing author at [Wonderzine](http://www.wonderzine.com)** (2013–present)
 
@@ -44,8 +43,6 @@ Contributed lifestyle articles on various tematics, icluding sex, relationships,
 **Contributing author for [VTB special project](http://vtbrussia.ru/culture/spec/mmkf/2013/history/pages/#276049)**
 
 Contributed content for VTB special project dedicated to Moscow International Film Festival 35th Anniversary.
-
-
 
 **Content editor and project manager at [DigDog](http://digdog.ru/en/)** (2012–2013)
 
