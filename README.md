@@ -1,20 +1,20 @@
-# Daria Nifontova
+#Daria Nifontova
 
-## Summary
+##Summary
 
 20 y.o. copywriter, journalist, aspiring community leader and hopefully the next big thing. Currently residing in Kiev, Ukraine.
 
-### Contact
+###Contact
 
 [darianiff@gmail.com](mailto:darianiff@gmail.com)  
 +380-91-920-16-23  
 [facebook.com/daria.nifontova](http://www.facebook.com/daria.nifontova)  
 
-### Skills
+###Skills
 
 Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to long essays). Was a part of researchers team for navigation systems, due to interest in information design and navigation systems. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
 
-### Education
+###Education
 
 **Moscow British Higher School of Art and Design** (2013)
 
