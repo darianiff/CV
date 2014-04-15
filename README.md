@@ -1,20 +1,20 @@
-#Daria Nifontova
+# Daria Nifontova
 
-##Summary
+## Summary
 
 20 y.o. copywriter, journalist, aspiring community leader and hopefully the next big thing. Currently residing in Kiev, Ukraine.
 
-###Contact
+### Contact
 
 [darianiff@gmail.com](mailto:darianiff@gmail.com)  
 +380-91-920-16-23  
 [facebook.com/daria.nifontova](http://www.facebook.com/daria.nifontova)  
 
-###Skills
+### Skills
 
-Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to long essays). Was a part of researchers team for navigation systems, due to interest in information design and navigation systems. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
+Fluent Russian, Ukrainian and English (spoken and written), creative writing (from tweets to long essays). Was an intern at Moscow based product development and consulting company [Thalient](http://thalient.in/), have basic understanding of UI/UX, can work comfortably with Adobe Illustrator and Omnigraffle. Never scared to face challenges, proven ability to meet “yesterday” deadlines.
 
-###Education
+### Education
 
 **Moscow British Higher School of Art and Design** (2013)
 
@@ -25,6 +25,10 @@ UX strategies course listener.
 Faculty of Humanities and Applied Sciences, specialized in English stylistics.
 
 ### Career
+
+**Contributing author at [FakeControl](http://fakecontrol.org/en/)** (2014)
+
+Contributed texts (for example: [1](http://fakecontrol.org/en/blog/2014/03/06/cyrillic-cancellation/), [2](http://fakecontrol.org/en/blog/2014/03/07/digest/)) to the FakeControl project, helped with the localization of the project (the project originally was in Russian), edited submitted translations of the articles. 
 
 **Copywriter at [CB Territory](http://territory.com.ua/)** (2013–present)
 
@@ -43,6 +47,10 @@ Contributed lifestyle articles on various tematics, icluding sex, relationships,
 **Contributing author for [VTB special project](http://vtbrussia.ru/culture/spec/mmkf/2013/history/pages/#276049)**
 
 Contributed content for VTB special project dedicated to Moscow International Film Festival 35th Anniversary.
+
+**Translator at [The Old Reader](http://theoldreader.com/)** (2013 - 2014)
+
+Was a part of the translators team at The Old Reader, was working on the localization of the project. In particular, worked on English-to-Russian translation of the site.
 
 **Content editor and project manager at [DigDog](http://digdog.ru/en/)** (2012–2013)
 
